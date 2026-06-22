@@ -1,0 +1,5 @@
+.build/
+.lean/
+*.olean
+.vscode/
+.DS_Store
